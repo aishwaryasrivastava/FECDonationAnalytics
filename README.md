@@ -1,5 +1,8 @@
 # Insight Data Engineering Fellowship Coding Challenge
-#### Submitted by Aishwarya Srivastava, Feb 13, 2018.
+#### Submission Details
+Aishwarya Srivastava on Feb 13, 2018.
+EMAIL: aishwaryasrivastava@mail.com
+PHONE: (614) 815-0930
 
 # Introduction
 `src\donation-analytics.py` is a program written in Python3 that processes the list of contributions in `input\itcont.txt` and writes the number of repeat donations made to a recipient in the same year and area on the provided output file. The program reads value P from `input\percentile.txt` to calculate and write the Pth percentile of each repeat donation. The format of the output file is the same as provided in the coding challenge description.
