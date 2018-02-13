@@ -1,7 +1,9 @@
 # Insight Data Engineering Fellowship Coding Challenge
 #### Submission Details
 Aishwarya Srivastava on Feb 13, 2018.
+
 EMAIL: aishwaryasrivastava@mail.com
+
 PHONE: (614) 815-0930
 
 # Introduction
